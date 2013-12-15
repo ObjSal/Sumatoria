@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Sumatoria_Fácil.Form1.resources
+obj\Debug\Proyecto1.vbproj.GenerateResource.Cache
+.\bin\Sumatoria_Fácil.exe
+.\bin\Sumatoria_Fácil.pdb
+.\bin\Sumatoria_Fácil.xml
+obj\Debug\Sumatoria_Fácil.exe
+obj\Debug\Sumatoria_Fácil.xml
+obj\Debug\Sumatoria_Fácil.pdb
